@@ -43,5 +43,20 @@ O projeto aborda como a memória RAM é organizada durante a execução de funç
 ### Pelo Terminal
 
 1. Acesse a pasta onde está o arquivo `.java`:
-   ```bash
-   cd caminho/para/o/projeto
+   `cd caminho/para/o/projeto`
+
+2. Compile o código-fonte:
+   `javac RecursividadeDemo.java`
+
+3. Execute a classe principal:
+   `java RecursividadeDemo`
+
+### Pelo IntelliJ IDEA
+1. Abra o projeto no **IntelliJ IDEA**.
+2. Localize o arquivo `RecursividadeDemo.java`.
+3. Clique no ícone verde de **Run** ao lado do método `main` (ou use `Shift + F10`).
+
+### Pelo VS Code
+1. Abra a pasta do projeto no **VS Code** (com o **Extension Pack for Java** instalado).
+2. Abra o arquivo `RecursividadeDemo.java`.
+3. Clique no botão **Run Java** (ícone de *play* no canto superior direito ou acima do método `main`) ou use `Ctrl + F5` / `F5`.
